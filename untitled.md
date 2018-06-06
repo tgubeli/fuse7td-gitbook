@@ -1,5 +1,5 @@
 ---
-description: In this lab you will setup the environment to start working on the labs!
+description: In this lab you will setup the environment to start working on the labs!!
 ---
 
 # Lab \#0 - Setup
