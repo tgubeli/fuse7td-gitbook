@@ -4,7 +4,7 @@
 * Click on the **`Create Connection`** button.
 * Select the **`AMQ`** connector.
 
-![](../.gitbook/assets/image%20%2830%29.png)
+![](../.gitbook/assets/image%20%2831%29.png)
 
 * Enter the following values:
 
@@ -17,10 +17,10 @@
 * Click on the **Validate** button.
 * Click on the **Next** button.
 
-![](../.gitbook/assets/image%20%2872%29.png)
+![](../.gitbook/assets/image%20%2874%29.png)
 
 * Enter **`"AMQ Broker"`** as **Connection Name.**
 * Click on the **`Create`** button.
 
-![](../.gitbook/assets/image%20%2853%29.png)
+![](../.gitbook/assets/image%20%2854%29.png)
 

@@ -4,7 +4,7 @@
 * Click on the **`Settings`** tab \(left-hand side\).
 * Click on the **`Register`** button in the **Salesforce settings.**
 
-![](../.gitbook/assets/image%20%28105%29.png)
+![](../.gitbook/assets/image%20%28107%29.png)
 
 * Enter the following values:
 
@@ -15,7 +15,7 @@
 * Click on the **`Save`** button.
 * Click on the **`Ok`** button.
 
-![](../.gitbook/assets/image%20%2837%29.png)
+![](../.gitbook/assets/image%20%2838%29.png)
 
 * Click on the **`Connections`** tab.
 * Click on the **`Create Connection`** button.
@@ -29,7 +29,7 @@ Make sure ~10mins have passed since creating the Salesforce Connected App.
 * Login with your recently created Salesforce.com credentials.
 * Click on the **`Allow`** button.
 
-![](../.gitbook/assets/image%20%2838%29.png)
+![](../.gitbook/assets/image%20%2839%29.png)
 
 * Enter "`IgniteSalesforce`" as the **Connection Name.**
 * Click on the **`Create`** button**.**

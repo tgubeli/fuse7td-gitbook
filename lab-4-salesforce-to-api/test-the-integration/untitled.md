@@ -4,11 +4,11 @@
 * Login with your credentials.
 * Click on the **`Leads`** tab.
 
-![](../../.gitbook/assets/image%20%2871%29.png)
+![](../../.gitbook/assets/image%20%2873%29.png)
 
 * Click on the **New** button.
 
-![](../../.gitbook/assets/image%20%28164%29.png)
+![](../../.gitbook/assets/image%20%28166%29.png)
 
 * Enter the following values:
 
@@ -20,6 +20,6 @@
 
 * Click on the **`Save`** button.
 
-![](../../.gitbook/assets/image%20%2815%29.png)
+![](../../.gitbook/assets/image%20%2816%29.png)
 
 * 

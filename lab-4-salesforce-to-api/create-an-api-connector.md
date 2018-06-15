@@ -3,17 +3,17 @@
 * Click on the  **`Customizations`** tab.
 * Click on the **`Create API Connector`** button.
 
-![](../.gitbook/assets/image%20%2856%29.png)
+![](../.gitbook/assets/image%20%2857%29.png)
 
 * Click on the **`Choose File`**button.
 * Select **`Lab4/contract_api.json`**.
 * Click on the **`Next`** button.
 
-![](../.gitbook/assets/image%20%2813%29.png)
+![](../.gitbook/assets/image%20%2814%29.png)
 
 * Click on the  **`Next`** button**.**
 
-![](../.gitbook/assets/image%20%2864%29.png)
+![](../.gitbook/assets/image%20%2865%29.png)
 
 {% hint style="info" %}
 Ignite parses the swagger document, and identifies all the available operations. 
@@ -23,7 +23,7 @@ More info about  swagger: [https://swagger.io/](https://swagger.io/)
 
 * Click on the **`Next`** button.
 
-![](../.gitbook/assets/image%20%2826%29.png)
+![](../.gitbook/assets/image%20%2827%29.png)
 
 * Enter the following values:
 
@@ -35,7 +35,7 @@ More info about  swagger: [https://swagger.io/](https://swagger.io/)
 
 * Click on the **`Create API Connector`** button.
 
-![](../.gitbook/assets/image%20%28123%29.png)
+![](../.gitbook/assets/image%20%28125%29.png)
 
 
 

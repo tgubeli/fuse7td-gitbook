@@ -6,7 +6,7 @@
     * **Password**: guest
   * Click on the **Sales** tab**.**
 
-![](../../.gitbook/assets/image%20%2886%29.png)
+![](../../.gitbook/assets/image%20%2888%29.png)
 
 {% hint style="info" %}
 You should see a new lead with all the information coming from Salesforce.

@@ -7,7 +7,7 @@
 
 * Select **`stockApp`** as the start connection.
 
-![](../.gitbook/assets/image%20%2817%29.png)
+![](../.gitbook/assets/image%20%2818%29.png)
 
 * Select the only available action:  **`Periodic invoke URL.`**
 * Enter the following values:
@@ -18,7 +18,7 @@
 
 * Click on the **`Next`** button.
 
-![](../.gitbook/assets/image%20%2823%29.png)
+![](../.gitbook/assets/image%20%2824%29.png)
 
 * Select **`RH Data Grid - Stock`** as the finish connection.
 * Select the only available action:  **`Invoke URL`.**
@@ -30,4 +30,18 @@
 
 * Click on the **`Next`** button.
 * Click on the **`Done`** button.
-* 
+
+![](../.gitbook/assets/image%20%2867%29.png)
+
+* Click on the **`Add a Step`** button.
+* Select the **`Process CSV`** step.
+* Enter the following value:
+  * **CSV Column List:** sku,prod\_name,prod\_sotck,store\_id
+* Click on the **`Done`** button.
+
+![](../.gitbook/assets/image%20%283%29.png)
+
+* Click on the **Publish** button.
+* Enter "**HTTP to RH Data Grid"** as integration name.
+* Click on the **Publish** button.
+
