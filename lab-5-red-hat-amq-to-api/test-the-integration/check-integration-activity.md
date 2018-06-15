@@ -6,7 +6,7 @@
 * Click on the **`Activity`** tab.
 * Expand the first ****activity.
 
-![](../../.gitbook/assets/image%20%28125%29.png)
+![](../../.gitbook/assets/image%20%28127%29.png)
 
 {% hint style="info" %}
 Note that for each processed transaction there will be an acitivy log with detailed information about each executed step.

@@ -3,7 +3,7 @@
 * Click on the **`Integrations`** tab.
 * Click on the **`Create Integration`** button.
 
-![](../.gitbook/assets/image%20%28150%29.png)
+![](../.gitbook/assets/image%20%28153%29.png)
 
 * Select **Openshift FTP** as the starting connection for the integration.
 
@@ -11,7 +11,7 @@
 
 * Select the only available action: **Download**.
 
-![](../.gitbook/assets/image%20%2896%29.png)
+![](../.gitbook/assets/image%20%2897%29.png)
 
 * Enter the following values:
 
@@ -26,15 +26,15 @@
 
 * Click on the **`Done`** button.
 
-![](../.gitbook/assets/image%20%28139%29.png)
+![](../.gitbook/assets/image%20%28141%29.png)
 
 * Select **Openshift FTP** as the finish connection.
 
-![](../.gitbook/assets/image%20%28143%29.png)
+![](../.gitbook/assets/image%20%28145%29.png)
 
 * Select the only available action: **Upload**.
 
-![](../.gitbook/assets/image%20%28115%29.png)
+![](../.gitbook/assets/image%20%28117%29.png)
 
 * Enter the following values:
 
@@ -44,7 +44,7 @@
 
 * Click on the **`Next`** button.
 
-![](../.gitbook/assets/image%20%28114%29.png)
+![](../.gitbook/assets/image%20%28116%29.png)
 
 * Click on the **`Done`** button.
 * Click on the **`Publish`** button.
@@ -54,7 +54,7 @@
 * Enter **`FTP to FTP`** as the integration name.
 * Click on the **`Publish`** button.
 
-![](../.gitbook/assets/image%20%28111%29.png)
+![](../.gitbook/assets/image%20%28112%29.png)
 
 {% hint style="info" %}
 After ~5min the deployment of the integration should be done.

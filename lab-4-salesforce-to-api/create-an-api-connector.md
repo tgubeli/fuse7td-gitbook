@@ -35,7 +35,7 @@ More info about  swagger: [https://swagger.io/](https://swagger.io/)
 
 * Click on the **`Create API Connector`** button.
 
-![](../.gitbook/assets/image%20%28117%29.png)
+![](../.gitbook/assets/image%20%28119%29.png)
 
 
 

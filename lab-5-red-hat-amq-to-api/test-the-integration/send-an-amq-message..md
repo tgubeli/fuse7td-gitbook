@@ -12,7 +12,7 @@
 
 * Click on the **`User`** icon, and **`Preferences`.**
 
-![](../../.gitbook/assets/image%20%28137%29.png)
+![](../../.gitbook/assets/image%20%28139%29.png)
 
 * Click on the **ActiveMQ** tab.
 * Enter the following values:
@@ -23,7 +23,7 @@
 
 * Click on the **`Done`** button.
 
-![](../../.gitbook/assets/image%20%28160%29.png)
+![](../../.gitbook/assets/image%20%28163%29.png)
 
 * Click on the **`invoices`** queue.
 * Click on the **`Send`** tab**.**
@@ -34,7 +34,7 @@
 * Make sure **Payload Format** is set to **`XML`**.
 * Click on the **`Send message`** button.
 
-![](../../.gitbook/assets/image%20%28157%29.png)
+![](../../.gitbook/assets/image%20%28160%29.png)
 
 
 

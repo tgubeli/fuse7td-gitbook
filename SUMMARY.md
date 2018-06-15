@@ -47,4 +47,5 @@
   * [HouseKeeping](lab-5-red-hat-amq-to-api/housekeeping.md)
 * [Lab \#6 - HTTP+CSV to RH Data Grid](lab-6-http+csv-to-rh-data-grid/README.md)
   * [Create HTTP Connection](lab-6-http+csv-to-rh-data-grid/create-http-connection.md)
+  * [Create Red Hat Data Grid - HTTP connection](lab-6-http+csv-to-rh-data-grid/create-red-hat-data-grid-http-connection.md)
 

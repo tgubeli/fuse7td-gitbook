@@ -8,7 +8,7 @@
 * Select **`AMQ Broker`** as the start connection.
 * Select the **`Subscribe for messages`** action.
 
-![](../.gitbook/assets/image%20%28124%29.png)
+![](../.gitbook/assets/image%20%28126%29.png)
 
 * Enter the following values:
 
@@ -18,7 +18,7 @@
 
 * Click on the **`Next`** button.
 
-![](../.gitbook/assets/image%20%28146%29.png)
+![](../.gitbook/assets/image%20%28149%29.png)
 
 * Click on the **`Done`** button.
 * Select the **`OpenCRX-Leads`** connection.
@@ -30,13 +30,13 @@
 * Hover over the **+** icon and click on the  **Add a Step** link.
 * Select the **Log** step.
 
-![](../.gitbook/assets/image%20%28132%29.png)
+![](../.gitbook/assets/image%20%28134%29.png)
 
 * Check **`Message Body`**.
 * Enter "**`INVOICE`**" as **Custom Text.** 
 * Click on the **`Done`**  button.
 
-![](../.gitbook/assets/image%20%28113%29.png)
+![](../.gitbook/assets/image%20%28114%29.png)
 
 * Hover over the **+** icon and click on the **Add a Step** link.
 * Select the **`Split`** step.
@@ -85,7 +85,7 @@
 
 * Click on the **+** icon in the **`Constants`** tab.
 
-![](../.gitbook/assets/image%20%28105%29.png)
+![](../.gitbook/assets/image%20%28106%29.png)
 
 * Enter the following:
 
@@ -99,7 +99,7 @@
 
 * Click on the **`true`** constant and map it to **`noAutoRecalc`**.
 
-![](../.gitbook/assets/image%20%28112%29.png)
+![](../.gitbook/assets/image%20%28113%29.png)
 
 * Click on the **`Done`** button.
 * Click on the **`Publish`** button.

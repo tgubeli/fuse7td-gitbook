@@ -28,7 +28,7 @@
 * Expand **Servers -&gt; IgniteDB -&gt; Databases -&gt; JBossBank -&gt; Schemas -&gt; Public -&gt; Tables**
 * Right-click on the **`contacts`** table, and select **`View/Edit Data -> All Rows`.**
 
-![](../../.gitbook/assets/image%20%28144%29.png)
+![](../../.gitbook/assets/image%20%28146%29.png)
 
 {% hint style="info" %}
 Note that the table is empty.

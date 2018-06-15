@@ -14,7 +14,7 @@
 
 * Click on the **`Setup`** link
 
-![](../.gitbook/assets/image%20%28102%29.png)
+![](../.gitbook/assets/image%20%28103%29.png)
 
 * Go to the **Build** section and expand **Create**.
 * Click on the **Apps** link.
@@ -24,7 +24,7 @@
 * Scroll down to the **Connected Apps** section.
 * Click on the **`New`** button.
 
-![](../.gitbook/assets/image%20%28136%29.png)
+![](../.gitbook/assets/image%20%28138%29.png)
 
 * Enter the following values:
 
