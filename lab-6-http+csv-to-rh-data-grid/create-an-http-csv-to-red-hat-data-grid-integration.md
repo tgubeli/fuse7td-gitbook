@@ -31,7 +31,7 @@
 * Click on the **`Next`** button.
 * Click on the **`Done`** button.
 
-![](../.gitbook/assets/image%20%2868%29.png)
+![](../.gitbook/assets/image%20%2869%29.png)
 
 * Click on the **`Add a Step`** button.
 * Select the **`Process CSV`** step.

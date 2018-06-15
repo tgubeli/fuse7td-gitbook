@@ -10,7 +10,7 @@
 
 * Click on the **Create App** button.
 
-![](../.gitbook/assets/image%20%28114%29.png)
+![](../.gitbook/assets/image%20%28116%29.png)
 
 * Enter the following values:
 

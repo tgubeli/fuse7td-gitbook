@@ -4,7 +4,7 @@
 * Click on the **`Settings`** tab \(left-hand side\).
 * Click on the **`Register`** button in the **Salesforce settings.**
 
-![](../.gitbook/assets/image%20%28109%29.png)
+![](../.gitbook/assets/image%20%28110%29.png)
 
 * Enter the following values:
 
