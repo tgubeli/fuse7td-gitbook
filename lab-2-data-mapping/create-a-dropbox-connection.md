@@ -7,7 +7,7 @@
 
 * Select the **Dropbox** connector.
 
-![](../.gitbook/assets/image%20%2899%29.png)
+![](../.gitbook/assets/image%20%28101%29.png)
 
 * Paste the access token generated in dropbox.com
 * Enter "IgniteApp" as the **Client Identifier.**
@@ -19,5 +19,5 @@
 * Enter "**DropboxIgnite**" as the **Connection Name.**
 * Click on the **`Create`** button.
 
-![](../.gitbook/assets/image%20%28126%29.png)
+![](../.gitbook/assets/image%20%28128%29.png)
 

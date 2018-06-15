@@ -52,4 +52,5 @@
   * [Create an HTTP\(CSV\) to Red Hat Data Grid integration](lab-6-http+csv-to-rh-data-grid/create-an-http-csv-to-red-hat-data-grid-integration.md)
   * [Test the Integration](lab-6-http+csv-to-rh-data-grid/test-the-integration/README.md)
     * [Check HTTP stock service](lab-6-http+csv-to-rh-data-grid/test-the-integration/check-http-stock-service.md)
+    * [Check Red Hat Data Grid cache](lab-6-http+csv-to-rh-data-grid/test-the-integration/check-red-hat-data-grid-cache.md)
 

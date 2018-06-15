@@ -9,7 +9,7 @@
 * Click on the **Sales** tab**.**
 * Click on the **Invoices** tab.
 
-![](../../.gitbook/assets/image%20%28101%29.png)
+![](../../.gitbook/assets/image%20%28103%29.png)
 
 {% hint style="info" %}
 There should be one invoice per XML invoice element sent in the AMQ message.

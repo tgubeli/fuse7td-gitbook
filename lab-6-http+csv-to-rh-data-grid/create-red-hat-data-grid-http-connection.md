@@ -4,7 +4,7 @@
 * Click on the **`Create Connection`** button.
 * Select the **`HTTP Connector`**
 
-![](../.gitbook/assets/image%20%28164%29.png)
+![](../.gitbook/assets/image%20%28166%29.png)
 
 * Enter the following value:
 
@@ -13,12 +13,12 @@
 * Click on the **`Validate`** button.
 * Click on the **`Next`** button.
 
-![](../.gitbook/assets/image%20%2895%29.png)
+![](../.gitbook/assets/image%20%2897%29.png)
 
 * Enter "**`RH DataGrid - Stock`"** as **`Connection Name`.**
 * Click on the **`Create`** button.
 
-![](../.gitbook/assets/image%20%28154%29.png)
+![](../.gitbook/assets/image%20%28156%29.png)
 
 
 
