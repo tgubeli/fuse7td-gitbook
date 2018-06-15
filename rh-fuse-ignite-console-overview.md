@@ -36,7 +36,7 @@ In the **Integrations** tab you will find a list of the existing integrations.
 
 In the **Connections** tab you will find a list of available connections.
 
-![](.gitbook/assets/image%20%28169%29.png)
+![](.gitbook/assets/image%20%28170%29.png)
 
 In the **Customizations** tab you will be able to create **API Client Connectors** to interact with Swagger-based APIs, and import your custom \(or community\) **Ignite Extensions** \(steps and connections\) to further expand **Fuse Ignite** functionality.
 
