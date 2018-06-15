@@ -16,7 +16,7 @@
 * Click on the **`Validate`** button.
 * Click on the **`Next`** button.
 
-![](../.gitbook/assets/image%20%28126%29.png)
+![](../.gitbook/assets/image%20%28128%29.png)
 
 * Enter **" IginteDB"**  as **Connection Name.**
 * Click on the **`Create`** button.

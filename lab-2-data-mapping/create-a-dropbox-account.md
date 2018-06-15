@@ -6,7 +6,7 @@ If you don't have a DropBox account, follow these steps:
 2. Enter your personal details.
 3. Click on the ``**`Create an account`** ``button.
 
-![](../.gitbook/assets/image%20%28120%29.png)
+![](../.gitbook/assets/image%20%28122%29.png)
 
 4. Go to your mail inbox and validate the account.
 

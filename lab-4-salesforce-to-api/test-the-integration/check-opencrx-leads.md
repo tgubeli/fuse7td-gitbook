@@ -6,7 +6,7 @@
   * **Password**: guest
 * Click on the **Sales** tab**.**
 
-![](../../.gitbook/assets/image%20%28124%29.png)
+![](../../.gitbook/assets/image%20%28126%29.png)
 
 {% hint style="info" %}
 Note that there are no existing leads.

@@ -17,10 +17,10 @@
 * Click on the **Validate** button.
 * Click on the **Next** button.
 
-![](../.gitbook/assets/image%20%2868%29.png)
+![](../.gitbook/assets/image%20%2869%29.png)
 
 * Enter **`"AMQ Broker"`** as **Connection Name.**
 * Click on the **`Create`** button.
 
-![](../.gitbook/assets/image%20%2850%29.png)
+![](../.gitbook/assets/image%20%2851%29.png)
 

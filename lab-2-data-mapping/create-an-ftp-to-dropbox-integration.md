@@ -3,11 +3,11 @@
 * Click on the **`Integrations`** tab.
 * Click on the **`Create Integration`** ``button.
 
-![](../.gitbook/assets/image%20%28148%29.png)
+![](../.gitbook/assets/image%20%28150%29.png)
 
 * Select **`Openshift FTP`** as the start connection.
 
-![](../.gitbook/assets/image%20%2880%29.png)
+![](../.gitbook/assets/image%20%2881%29.png)
 
 * Select the only available action: **`Download`**
 * Enter the following values:
@@ -34,14 +34,14 @@
 * Enter **`Customer`** as **Data Type Name**.
 * Click on the **`Done`** button.
 
-![](../.gitbook/assets/image%20%2859%29.png)
+![](../.gitbook/assets/image%20%2860%29.png)
 
 * Select **`DropboxIgnite`** as the finish connection.
 * Select the only available action: **`Upload`**.
 * Enter **`/customer.json`** as **Remote Path**.
 * Click on the **`Next`** button.
 
-![](../.gitbook/assets/image%20%2895%29.png)
+![](../.gitbook/assets/image%20%2897%29.png)
 
 * Select **`JSON Instance`** as **Type.**
 * Paste the contents of **Lab2\customer.json** into the **Definition** field.
@@ -55,7 +55,7 @@
 * Enter **`Customer_JSON`** as **Data Type Name**.
 * Click on the **`Done`** button.
 
-![](../.gitbook/assets/image%20%2852%29.png)
+![](../.gitbook/assets/image%20%2853%29.png)
 
 {% hint style="warning" %}
 Notice there is a warning icon next to the finish connection. This is because its input data shape is different than the start connector's output data shape.
@@ -64,7 +64,7 @@ Notice there is a warning icon next to the finish connection. This is because it
 * Click on the warning icon in the finish connection.
 * Click on the ``**`Add a data mapping step`** link.
 
-![](../.gitbook/assets/image%20%28139%29.png)
+![](../.gitbook/assets/image%20%28141%29.png)
 
 * Expand both the **Source** and **Target** data shapes.
 * Click on the **@id** field in the **Source** data shape.
@@ -76,7 +76,7 @@ Notice there is a warning icon next to the finish connection. This is because it
 * Click on the **address** field in the **Target** data shape.
 * Click on the **`Add Transformation`** button.
 
-![](../.gitbook/assets/image%20%28119%29.png)
+![](../.gitbook/assets/image%20%28121%29.png)
 
 * Select the **Uppercase** transformation.
 
@@ -85,19 +85,19 @@ Notice there is a warning icon next to the finish connection. This is because it
 * Click on the **name** field in the **Source** data shape.
 * Click on the **firstName** field in the **Target** data shape.
 
-![](../.gitbook/assets/image%20%28107%29.png)
+![](../.gitbook/assets/image%20%28109%29.png)
 
 * Go to the **Action** section in **Mapping Details.**
 * Select **`Separate`** as the action.
 * Leave the default separator \(Space\[ \]\).
 * Click on the **`Add Target`** button.
 
-![](../.gitbook/assets/image%20%28121%29.png)
+![](../.gitbook/assets/image%20%28123%29.png)
 
 * Click on the new **Target** field and enter "**lastName"**.
 * Select the field suggestion
 
-![](../.gitbook/assets/image%20%2862%29.png)
+![](../.gitbook/assets/image%20%2863%29.png)
 
 * Click on the **`Done`** button.
 * Click on the **`Publish`** button.

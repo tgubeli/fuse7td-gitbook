@@ -45,4 +45,6 @@
     * [Check OpenCRX invoices](lab-5-red-hat-amq-to-api/test-the-integration/check-opencrx-invoices-1.md)
     * [Check Integration activity](lab-5-red-hat-amq-to-api/test-the-integration/check-integration-activity.md)
   * [HouseKeeping](lab-5-red-hat-amq-to-api/housekeeping.md)
+* [Lab \#6 - HTTP+CSV to RH Data Grid](lab-6-http+csv-to-rh-data-grid/README.md)
+  * [Create HTTP Connection](lab-6-http+csv-to-rh-data-grid/create-http-connection.md)
 

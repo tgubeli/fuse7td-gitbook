@@ -6,11 +6,11 @@
   * **Password**: password
 * Click on  **Add New Server.**
 
-![](../../.gitbook/assets/image%20%2864%29.png)
+![](../../.gitbook/assets/image%20%2865%29.png)
 
 * Enter **igniteDB** as **Name.**
 
-![](../../.gitbook/assets/image%20%2875%29.png)
+![](../../.gitbook/assets/image%20%2876%29.png)
 
 * Click on the **Connection** tab.
 * Enter the following values:
@@ -28,7 +28,7 @@
 * Expand **Servers -&gt; IgniteDB -&gt; Databases -&gt; JBossBank -&gt; Schemas -&gt; Public -&gt; Tables**
 * Right-click on the **`contacts`** table, and select **`View/Edit Data -> All Rows`.**
 
-![](../../.gitbook/assets/image%20%28142%29.png)
+![](../../.gitbook/assets/image%20%28144%29.png)
 
 {% hint style="info" %}
 Note that the table is empty.

@@ -4,7 +4,7 @@
 * Login as **admin/admin.**
 * Click on the blue circle.
 
-![](../../.gitbook/assets/image%20%2885%29.png)
+![](../../.gitbook/assets/image%20%2886%29.png)
 
 * Click on the **`Open Java Console`** link.
 
@@ -12,7 +12,7 @@
 
 * Click on the **`User`** icon, and **`Preferences`.**
 
-![](../../.gitbook/assets/image%20%28135%29.png)
+![](../../.gitbook/assets/image%20%28137%29.png)
 
 * Click on the **ActiveMQ** tab.
 * Enter the following values:
@@ -23,18 +23,18 @@
 
 * Click on the **`Done`** button.
 
-![](../../.gitbook/assets/image%20%28157%29.png)
+![](../../.gitbook/assets/image%20%28160%29.png)
 
 * Click on the **`invoices`** queue.
 * Click on the **`Send`** tab**.**
 
-![](../../.gitbook/assets/image%20%2858%29.png)
+![](../../.gitbook/assets/image%20%2859%29.png)
 
 * Paste the contents of **Labs\lab5\invoices.xml** .
 * Make sure **Payload Format** is set to **`XML`**.
 * Click on the **`Send message`** button.
 
-![](../../.gitbook/assets/image%20%28154%29.png)
+![](../../.gitbook/assets/image%20%28157%29.png)
 
 
 

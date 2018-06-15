@@ -9,7 +9,7 @@
 
 * Select **FTP**.
 
-![](../.gitbook/assets/image%20%28106%29.png)
+![](../.gitbook/assets/image%20%28108%29.png)
 
 * Enter the following values:
 
@@ -23,7 +23,7 @@
 
 
 
-![](../.gitbook/assets/image%20%28138%29.png)
+![](../.gitbook/assets/image%20%28140%29.png)
 
 * You should receive a message like this:
 
@@ -31,12 +31,12 @@
 
 * Click on the **`Next>`** button.
 
-![](../.gitbook/assets/image%20%28131%29.png)
+![](../.gitbook/assets/image%20%28133%29.png)
 
 * Enter "**Openshift FTP"** as the name for the connector.
 * Click on the **`Create`** button.
 
-![](../.gitbook/assets/image%20%28133%29.png)
+![](../.gitbook/assets/image%20%28135%29.png)
 
 
 

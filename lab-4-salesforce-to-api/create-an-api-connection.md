@@ -4,7 +4,7 @@
 * Click on the  **`Create Connection`** button.
 * Select the **`OpenCRX-Leads`**connector.
 
-![](../.gitbook/assets/image%20%28105%29.png)
+![](../.gitbook/assets/image%20%28107%29.png)
 
 * Enter the following values:
 
@@ -14,7 +14,7 @@
 
 * Click on the  **`Next`** button.
 
-![](../.gitbook/assets/image%20%2879%29.png)
+![](../.gitbook/assets/image%20%2880%29.png)
 
 * Enter **`OpenCRX-Leads`** as **Connection Name.**
 * Click on the **`Create`** button.

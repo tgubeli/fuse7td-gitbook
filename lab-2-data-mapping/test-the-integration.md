@@ -4,7 +4,7 @@
 
 * Wait until the integration is published:
 
-![](../.gitbook/assets/image%20%2896%29.png)
+![](../.gitbook/assets/image%20%2898%29.png)
 
 * Go to [http://ftp.ignite1.rhtechofficelatam.com/](http://ftp.ignite1.rhtechofficelatam.com/)​
 * Click on **`Advanced Login`**
@@ -29,13 +29,13 @@
 * Upload **Lab2\customer.xml** to the FTP server.
 * Click on the **`Submit`** button.
 
-![](../.gitbook/assets/image%20%28117%29.png)
+![](../.gitbook/assets/image%20%28119%29.png)
 
 * Click on the **Back** arrow button.
 * Go back to **Fuse Ignite** console.
 * Click on the **`Activity`** tab.
 
-![](../.gitbook/assets/image%20%2898%29.png)
+![](../.gitbook/assets/image%20%28100%29.png)
 
 {% hint style="info" %}
 You can see a detail of every processed message
@@ -49,11 +49,11 @@ You can see a detail of every processed message
 * Go to **`My Files -> Apps -> IgniteApp`**
 * There should be a **`customer.json`** file.
 
-![](../.gitbook/assets/image%20%2883%29.png)
+![](../.gitbook/assets/image%20%2884%29.png)
 
 * Double-click on the file to see its contents.
 
-![](../.gitbook/assets/image%20%2855%29.png)
+![](../.gitbook/assets/image%20%2856%29.png)
 
 
 

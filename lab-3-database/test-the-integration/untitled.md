@@ -4,7 +4,7 @@
 * Click on the **`Contacts`** tab.
 * Click on the **`New`** button.
 
-![](../../.gitbook/assets/image%20%28114%29.png)
+![](../../.gitbook/assets/image%20%28116%29.png)
 
 * Enter the following values:
 
@@ -16,5 +16,5 @@
 
 * Click on the **`Save`** button.
 
-![](../../.gitbook/assets/image%20%28146%29.png)
+![](../../.gitbook/assets/image%20%28148%29.png)
 
