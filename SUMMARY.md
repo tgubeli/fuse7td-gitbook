@@ -53,4 +53,5 @@
   * [Test the Integration](lab-6-http+csv-to-rh-data-grid/test-the-integration/README.md)
     * [Check HTTP stock service](lab-6-http+csv-to-rh-data-grid/test-the-integration/check-http-stock-service.md)
     * [Check Red Hat Data Grid cache](lab-6-http+csv-to-rh-data-grid/test-the-integration/check-red-hat-data-grid-cache.md)
+  * [HouseKeeping](lab-6-http+csv-to-rh-data-grid/housekeeping.md)
 
