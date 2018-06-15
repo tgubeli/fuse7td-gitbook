@@ -18,7 +18,7 @@
 * Click on the **`incoming`** folder.
 * Upload **lab1\file1.xml** to the FTP server.
 
-![](../.gitbook/assets/image%20%28157%29.png)
+![](../.gitbook/assets/image%20%28159%29.png)
 
 * Click on the **`Submit`** button.
 
@@ -28,13 +28,13 @@
 * Navigate to the **Outgoing** folder.
 * You should have a file with the current date as filename.
 
-![](../.gitbook/assets/image%20%28133%29.png)
+![](../.gitbook/assets/image%20%28135%29.png)
 
 * Go back to **Fuse Ignite**  console.
 * Click on the **`Integrations`** tab.
 * Click on the **`Activity`** tab.
 
-![](../.gitbook/assets/image%20%28144%29.png)
+![](../.gitbook/assets/image%20%28146%29.png)
 
 {% hint style="success" %}
 Notice that there's been one activity in the deployed integration
@@ -42,7 +42,7 @@ Notice that there's been one activity in the deployed integration
 
 * Click on the **`Metrics`** tab.
 
-![](../.gitbook/assets/image%20%28150%29.png)
+![](../.gitbook/assets/image%20%28152%29.png)
 
 {% hint style="success" %}
 In the metrics section, you can see one message has been processed by the deployed integration.

@@ -10,11 +10,11 @@
 * Click on the **Profile** icon \(upper-right side\).
 * Click on the **`Switch to Salesforce Classic`** link.
 
-![](../.gitbook/assets/image%20%2871%29.png)
+![](../.gitbook/assets/image%20%2872%29.png)
 
 * Click on the **`Setup`** link
 
-![](../.gitbook/assets/image%20%28103%29.png)
+![](../.gitbook/assets/image%20%28104%29.png)
 
 * Go to the **Build** section and expand **Create**.
 * Click on the **Apps** link.
@@ -24,7 +24,7 @@
 * Scroll down to the **Connected Apps** section.
 * Click on the **`New`** button.
 
-![](../.gitbook/assets/image%20%28138%29.png)
+![](../.gitbook/assets/image%20%28140%29.png)
 
 * Enter the following values:
 
@@ -55,5 +55,5 @@
 
 * Take note of the **Consumer Key** and **Consumer Secret** \(you will need them later\).
 
-![](../.gitbook/assets/image%20%2878%29.png)
+![](../.gitbook/assets/image%20%2879%29.png)
 

@@ -3,11 +3,11 @@
 * Click on the **`Integrations`** tab.
 * Click on the **`Create Integration`** ``button.
 
-![](../.gitbook/assets/image%20%28153%29.png)
+![](../.gitbook/assets/image%20%28155%29.png)
 
 * Select **`Openshift FTP`** as the start connection.
 
-![](../.gitbook/assets/image%20%2881%29.png)
+![](../.gitbook/assets/image%20%2882%29.png)
 
 * Select the only available action: **`Download`**
 * Enter the following values:
@@ -41,7 +41,7 @@
 * Enter **`/customer.json`** as **Remote Path**.
 * Click on the **`Next`** button.
 
-![](../.gitbook/assets/image%20%2898%29.png)
+![](../.gitbook/assets/image%20%2899%29.png)
 
 * Select **`JSON Instance`** as **Type.**
 * Paste the contents of **Lab2\customer.json** into the **Definition** field.
@@ -64,7 +64,7 @@ Notice there is a warning icon next to the finish connection. This is because it
 * Click on the warning icon in the finish connection.
 * Click on the ``**`Add a data mapping step`** link.
 
-![](../.gitbook/assets/image%20%28143%29.png)
+![](../.gitbook/assets/image%20%28145%29.png)
 
 * Expand both the **Source** and **Target** data shapes.
 * Click on the **@id** field in the **Source** data shape.
@@ -76,7 +76,7 @@ Notice there is a warning icon next to the finish connection. This is because it
 * Click on the **address** field in the **Target** data shape.
 * Click on the **`Add Transformation`** button.
 
-![](../.gitbook/assets/image%20%28123%29.png)
+![](../.gitbook/assets/image%20%28125%29.png)
 
 * Select the **Uppercase** transformation.
 
@@ -85,14 +85,14 @@ Notice there is a warning icon next to the finish connection. This is because it
 * Click on the **name** field in the **Source** data shape.
 * Click on the **firstName** field in the **Target** data shape.
 
-![](../.gitbook/assets/image%20%28110%29.png)
+![](../.gitbook/assets/image%20%28111%29.png)
 
 * Go to the **Action** section in **Mapping Details.**
 * Select **`Separate`** as the action.
 * Leave the default separator \(Space\[ \]\).
 * Click on the **`Add Target`** button.
 
-![](../.gitbook/assets/image%20%28125%29.png)
+![](../.gitbook/assets/image%20%28127%29.png)
 
 * Click on the new **Target** field and enter "**lastName"**.
 * Select the field suggestion

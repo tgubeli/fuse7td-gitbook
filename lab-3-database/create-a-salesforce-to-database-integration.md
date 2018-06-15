@@ -10,11 +10,11 @@
 * Select **`Contact`** as **Object** **name**.
 * Click on the **`Done`** button.
 
-![](../.gitbook/assets/image%20%28159%29.png)
+![](../.gitbook/assets/image%20%28161%29.png)
 
 * Select **`IgniteDB`** as finish connection.
 
-![](../.gitbook/assets/image%20%2867%29.png)
+![](../.gitbook/assets/image%20%2868%29.png)
 
 * Select **`Invoke SQL`** as action.
 * Enter the following value:
@@ -25,7 +25,7 @@
 
 * Click on the **Done** button.
 
-![](../.gitbook/assets/image%20%28136%29.png)
+![](../.gitbook/assets/image%20%28138%29.png)
 
 * Click on the warning icon next to the **INVOKE SQL** connection.
 * Click on the **Add a data mapping step** link.
@@ -43,13 +43,13 @@
 
 * Click on the **`Done`** button.
 
-![](../.gitbook/assets/image%20%2885%29.png)
+![](../.gitbook/assets/image%20%2886%29.png)
 
 * Click on the **Publish** button.
 * Enter **SalesforceToDB** as **Integration Name.**
 * Click on the **Publish** button.
 
-![](../.gitbook/assets/image%20%28152%29.png)
+![](../.gitbook/assets/image%20%28154%29.png)
 
 
 
