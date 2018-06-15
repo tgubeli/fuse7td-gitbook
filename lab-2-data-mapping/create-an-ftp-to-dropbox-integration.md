@@ -22,7 +22,7 @@
 ![](../.gitbook/assets/image%20%2851%29.png)
 
 * Select **`XML Instance`** as **Type.**
-* Paste the contents of the **Lab2\customer.xml** in the **`Definition`** field.
+* Paste the contents of the **Labs\Lab2\customer.xml** in the **`Definition`** field.
 
 ```text
 <customer id="c1">
@@ -44,7 +44,7 @@
 ![](../.gitbook/assets/image%20%28106%29.png)
 
 * Select **`JSON Instance`** as **Type.**
-* Paste the contents of **Lab2\customer.json** into the **Definition** field.
+* Paste the contents of **Labs\Lab2\customer.json** into the **Definition** field.
 
 ```text
 {
