@@ -7,16 +7,16 @@
 * Select **`Lead`** as **`Object Name`**.
 * Click on the **Done** button.
 
-![](../.gitbook/assets/image%20%2838%29.png)
+![](../.gitbook/assets/image%20%2840%29.png)
 
 * Select **`OpenCRX-Leads`** as finish connection.
 * Select **`POST /lead`** as action.
 
-![](../.gitbook/assets/image%20%28101%29.png)
+![](../.gitbook/assets/image%20%28103%29.png)
 
 * Click on the **`Done`** button.
 
-![](../.gitbook/assets/image%20%28105%29.png)
+![](../.gitbook/assets/image%20%28107%29.png)
 
 * Hover over the **+** icon between start/finish connections.
 * Click on the **Add a Step** link.
@@ -39,7 +39,7 @@
 
 * Hold **`Ctrl`** key and click on the **`ProductIterest_c`** **Source** field.
 
-![](../.gitbook/assets/image%20%2849%29.png)
+![](../.gitbook/assets/image%20%2851%29.png)
 
 * Click on the **`Done`** button.
 * Click on the **`Publish`** button.

@@ -8,5 +8,5 @@
 * Right-click on the **`contacts`** table, and select **`View/Edit Data -> All Rows`.**
 * You should see a new record in the table:
 
-![](../../.gitbook/assets/image%20%2865%29.png)
+![](../../.gitbook/assets/image%20%2867%29.png)
 

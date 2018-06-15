@@ -3,12 +3,12 @@
 * Click on the **`Integrations`** tab.
 * Click on the **`Create Integration`** button.
 
-![](../.gitbook/assets/image%20%2874%29.png)
+![](../.gitbook/assets/image%20%2876%29.png)
 
 * Select **`AMQ Broker`** as the start connection.
 * Select the **`Subscribe for messages`** action.
 
-![](../.gitbook/assets/image%20%28128%29.png)
+![](../.gitbook/assets/image%20%28130%29.png)
 
 * Enter the following values:
 
@@ -18,25 +18,25 @@
 
 * Click on the **`Next`** button.
 
-![](../.gitbook/assets/image%20%28151%29.png)
+![](../.gitbook/assets/image%20%28153%29.png)
 
 * Click on the **`Done`** button.
 * Select the **`OpenCRX-Leads`** connection.
 * Select the **`POST /invoice`** action**.**
 
-![](../.gitbook/assets/image%20%2817%29.png)
+![](../.gitbook/assets/image%20%2818%29.png)
 
 * Click on the **`Done`** button**.**
 * Hover over the **+** icon and click on the  **Add a Step** link.
 * Select the **Log** step.
 
-![](../.gitbook/assets/image%20%28136%29.png)
+![](../.gitbook/assets/image%20%28138%29.png)
 
 * Check **`Message Body`**.
 * Enter "**`INVOICE`**" as **Custom Text.** 
 * Click on the **`Done`**  button.
 
-![](../.gitbook/assets/image%20%28116%29.png)
+![](../.gitbook/assets/image%20%28118%29.png)
 
 * Hover over the **+** icon and click on the **Add a Step** link.
 * Select the **`Split`** step.
@@ -48,7 +48,7 @@
 
 * Click on the **`Done`** button.
 
-![](../.gitbook/assets/image%20%2871%29.png)
+![](../.gitbook/assets/image%20%2873%29.png)
 
 * Hover over the **+** icon and click on the **`Add a connection`.**
 * Select **`DataShape`** connector.
@@ -59,17 +59,17 @@
 * Enter**`InvoiceXML`** as the **Data Type Name.**
 * Click  on the **`Done`** button.
 
-![](../.gitbook/assets/image%20%2880%29.png)
+![](../.gitbook/assets/image%20%2882%29.png)
 
 * Click on the **warning** icon in the **finish** connector.
 * Click on the **`Add a data mapping step`** link.
 
-![](../.gitbook/assets/image%20%2873%29.png)
+![](../.gitbook/assets/image%20%2875%29.png)
 
 * Expand **InvoiceXML** -&gt; **invoice** in the **Source** data structure.
 * Expand **Request -&gt; body -&gt; org.opencrx.kernel.contract1.Invoice** in the **Target** data structure.
 
-![](../.gitbook/assets/image%20%2840%29.png)
+![](../.gitbook/assets/image%20%2842%29.png)
 
 * Perform the following mappings:
 
@@ -81,11 +81,11 @@
 | totalBaseAmount | totalBaseAmount |
 | totalTaxAmount | totalTaxAmount |
 
-![](../.gitbook/assets/image%20%2876%29.png)
+![](../.gitbook/assets/image%20%2878%29.png)
 
 * Click on the **+** icon in the **`Constants`** tab.
 
-![](../.gitbook/assets/image%20%28107%29.png)
+![](../.gitbook/assets/image%20%28109%29.png)
 
 * Enter the following:
 
@@ -95,11 +95,11 @@
 
 * Click on the **`Save`** button.
 
-![](../.gitbook/assets/image%20%2890%29.png)
+![](../.gitbook/assets/image%20%2892%29.png)
 
 * Click on the **`true`** constant and map it to **`noAutoRecalc`**.
 
-![](../.gitbook/assets/image%20%28115%29.png)
+![](../.gitbook/assets/image%20%28117%29.png)
 
 * Click on the **`Done`** button.
 * Click on the **`Publish`** button.

@@ -4,7 +4,7 @@
 
 * Wait until the integration is published:
 
-![](../.gitbook/assets/image%20%28100%29.png)
+![](../.gitbook/assets/image%20%28102%29.png)
 
 * Go to [http://ftp.ignite1.rhtechofficelatam.com/](http://ftp.ignite1.rhtechofficelatam.com/)​
 * Click on **`Advanced Login`**
@@ -24,18 +24,18 @@
 * Click on the **`incoming`** folder.
 * Click on the **`Upload`** button.
 
-![](../.gitbook/assets/image%20%2821%29.png)
+![](../.gitbook/assets/image%20%2822%29.png)
 
 * Upload **Lab2\customer.xml** to the FTP server.
 * Click on the **`Submit`** button.
 
-![](../.gitbook/assets/image%20%28123%29.png)
+![](../.gitbook/assets/image%20%28125%29.png)
 
 * Click on the **Back** arrow button.
 * Go back to **Fuse Ignite** console.
 * Click on the **`Activity`** tab.
 
-![](../.gitbook/assets/image%20%28102%29.png)
+![](../.gitbook/assets/image%20%28104%29.png)
 
 {% hint style="info" %}
 You can see a detail of every processed message
@@ -43,17 +43,17 @@ You can see a detail of every processed message
 
 * Click on the **`Metrics`** tab.
 
-![](../.gitbook/assets/image%20%2826%29.png)
+![](../.gitbook/assets/image%20%2828%29.png)
 
 * Open a browser tab and go to your dropbox.com account.
 * Go to **`My Files -> Apps -> IgniteApp`**
 * There should be a **`customer.json`** file.
 
-![](../.gitbook/assets/image%20%2885%29.png)
+![](../.gitbook/assets/image%20%2887%29.png)
 
 * Double-click on the file to see its contents.
 
-![](../.gitbook/assets/image%20%2856%29.png)
+![](../.gitbook/assets/image%20%2858%29.png)
 
 
 

@@ -4,7 +4,7 @@
 * Click on the **`Create Connection`** button.
 * Select the **`Database`**connector.
 
-![](../.gitbook/assets/image%20%2842%29.png)
+![](../.gitbook/assets/image%20%2844%29.png)
 
 * Enter the following values:
 
@@ -16,7 +16,7 @@
 * Click on the **`Validate`** button.
 * Click on the **`Next`** button.
 
-![](../.gitbook/assets/image%20%28132%29.png)
+![](../.gitbook/assets/image%20%28134%29.png)
 
 * Enter **" IginteDB"**  as **Connection Name.**
 * Click on the **`Create`** button.
