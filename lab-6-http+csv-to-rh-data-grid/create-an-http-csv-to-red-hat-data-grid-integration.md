@@ -29,4 +29,5 @@
 | **Http Method** | PUT |
 
 * Click on the **`Next`** button.
+* Click on the **`Done`** button.
 * 

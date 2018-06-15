@@ -18,7 +18,7 @@
 * Click on the **`incoming`** folder.
 * Upload **lab1\file1.xml** to the FTP server.
 
-![](../.gitbook/assets/image%20%28161%29.png)
+![](../.gitbook/assets/image%20%28163%29.png)
 
 * Click on the **`Submit`** button.
 
@@ -42,7 +42,7 @@ Notice that there's been one activity in the deployed integration
 
 * Click on the **`Metrics`** tab.
 
-![](../.gitbook/assets/image%20%28154%29.png)
+![](../.gitbook/assets/image%20%28155%29.png)
 
 {% hint style="success" %}
 In the metrics section, you can see one message has been processed by the deployed integration.

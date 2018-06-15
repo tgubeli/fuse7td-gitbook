@@ -3,7 +3,7 @@
 * Click on the **`Integrations`** tab.
 * Click on the **`Create Integration`** ``button.
 
-![](../.gitbook/assets/image%20%28157%29.png)
+![](../.gitbook/assets/image%20%28158%29.png)
 
 * Select **`Openshift FTP`** as the start connection.
 

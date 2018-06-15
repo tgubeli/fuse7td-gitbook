@@ -46,7 +46,7 @@
     * [Check Integration activity](lab-5-red-hat-amq-to-api/test-the-integration/check-integration-activity.md)
   * [HouseKeeping](lab-5-red-hat-amq-to-api/housekeeping.md)
 * [Lab \#6 - HTTP+CSV to RH Data Grid](lab-6-http+csv-to-rh-data-grid/README.md)
-  * [Create HTTP Connection](lab-6-http+csv-to-rh-data-grid/create-http-connection.md)
+  * [Create an HTTP Connection](lab-6-http+csv-to-rh-data-grid/create-http-connection.md)
   * [Create Red Hat Data Grid - HTTP connection](lab-6-http+csv-to-rh-data-grid/create-red-hat-data-grid-http-connection.md)
   * [Import "CSV to JSON" Extension](lab-6-http+csv-to-rh-data-grid/import-csv-to-json-extension.md)
   * [Create an HTTP\(CSV\) to Red Hat Data Grid integration](lab-6-http+csv-to-rh-data-grid/create-an-http-csv-to-red-hat-data-grid-integration.md)

@@ -18,7 +18,7 @@
 
 * Click on the **`Next`** button.
 
-![](../.gitbook/assets/image%20%28153%29.png)
+![](../.gitbook/assets/image%20%28154%29.png)
 
 * Click on the **`Done`** button.
 * Select the **`OpenCRX-Leads`** connection.

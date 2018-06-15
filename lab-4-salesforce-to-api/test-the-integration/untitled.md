@@ -8,7 +8,7 @@
 
 * Click on the **New** button.
 
-![](../../.gitbook/assets/image%20%28162%29.png)
+![](../../.gitbook/assets/image%20%28164%29.png)
 
 * Enter the following values:
 

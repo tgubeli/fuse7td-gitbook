@@ -10,7 +10,7 @@
 * Select **`Contact`** as **Object** **name**.
 * Click on the **`Done`** button.
 
-![](../.gitbook/assets/image%20%28163%29.png)
+![](../.gitbook/assets/image%20%28165%29.png)
 
 * Select **`IgniteDB`** as finish connection.
 
@@ -49,7 +49,7 @@
 * Enter **SalesforceToDB** as **Integration Name.**
 * Click on the **Publish** button.
 
-![](../.gitbook/assets/image%20%28156%29.png)
+![](../.gitbook/assets/image%20%28157%29.png)
 
 
 

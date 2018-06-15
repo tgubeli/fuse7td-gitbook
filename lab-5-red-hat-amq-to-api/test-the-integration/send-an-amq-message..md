@@ -23,7 +23,7 @@
 
 * Click on the **`Done`** button.
 
-![](../../.gitbook/assets/image%20%28167%29.png)
+![](../../.gitbook/assets/image%20%28169%29.png)
 
 * Click on the **`invoices`** queue.
 * Click on the **`Send`** tab**.**
@@ -34,7 +34,7 @@
 * Make sure **Payload Format** is set to **`XML`**.
 * Click on the **`Send message`** button.
 
-![](../../.gitbook/assets/image%20%28164%29.png)
+![](../../.gitbook/assets/image%20%28166%29.png)
 
 
 
