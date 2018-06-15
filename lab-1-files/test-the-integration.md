@@ -16,7 +16,7 @@
 ![](../.gitbook/assets/image%20%2817%29.png)
 
 * Click on the **`incoming`** folder.
-* Upload **lab1\file1.xml** to the FTP server.
+* Upload **Labs\Lab1\file1.xml** to the FTP server.
 
 ![](../.gitbook/assets/image%20%28169%29.png)
 
