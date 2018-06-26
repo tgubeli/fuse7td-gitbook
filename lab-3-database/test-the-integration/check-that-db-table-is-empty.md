@@ -1,6 +1,6 @@
 # Check that DB table is empty
 
-* Go to [http://db.ignite1.rhtechofficelatam.com](http://db.ignite1.rhtechofficelatam.com)
+* Go to **http://db.apps-&lt;GUID&gt;.generic.opentlc.com**
 * Login as:
   * **User**: admin@ignite.com
   * **Password**: password
