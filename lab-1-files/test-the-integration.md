@@ -1,6 +1,6 @@
 # Test the integration
 
-* Go to [http://ftp.ignite1.rhtechofficelatam.com/](http://ftp.ignite1.rhtechofficelatam.com/)
+* Go to **http://ftp.apps-&lt;GUID&gt;.generic.opentlc.com**
 * Click on **`Advanced Login`**
 * Enter the following values:
 
