@@ -17,7 +17,7 @@
 * Click on the **Validate** button.
 * Click on the **Next** button.
 
-![](../.gitbook/assets/image%20%2876%29.png)
+![](../.gitbook/assets/image%20%2877%29.png)
 
 * Enter **`"AMQ Broker"`** as **Connection Name.**
 * Click on the **`Create`** button.

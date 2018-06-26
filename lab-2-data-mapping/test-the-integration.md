@@ -4,7 +4,7 @@
 
 * Wait until the integration is published:
 
-![](../.gitbook/assets/image%20%28107%29.png)
+![](../.gitbook/assets/image%20%28108%29.png)
 
 * Go to **http://ftp.apps-&lt;GUID&gt;.generic.opentlc.com**
 * Click on **`Advanced Login`**
@@ -29,13 +29,13 @@
 * Upload **Lab2\customer.xml** to the FTP server.
 * Click on the **`Submit`** button.
 
-![](../.gitbook/assets/image%20%28131%29.png)
+![](../.gitbook/assets/image%20%28132%29.png)
 
 * Click on the **Back** arrow button.
 * Go back to **Fuse Ignite** console.
 * Click on the **`Activity`** tab.
 
-![](../.gitbook/assets/image%20%28109%29.png)
+![](../.gitbook/assets/image%20%28110%29.png)
 
 {% hint style="info" %}
 You can see a detail of every processed message
@@ -49,11 +49,11 @@ You can see a detail of every processed message
 * Go to **`My Files -> Apps -> IgniteApp`**
 * There should be a **`customer.json`** file.
 
-![](../.gitbook/assets/image%20%2892%29.png)
+![](../.gitbook/assets/image%20%2893%29.png)
 
 * Double-click on the file to see its contents.
 
-![](../.gitbook/assets/image%20%2861%29.png)
+![](../.gitbook/assets/image%20%2862%29.png)
 
 
 

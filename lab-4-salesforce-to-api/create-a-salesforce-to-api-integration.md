@@ -9,14 +9,14 @@
 
 ![](../.gitbook/assets/image%20%2841%29.png)
 
-* Select **`OpenCRX-Leads`** as finish connection.
+* Select **`OpenCRX`** as finish connection.
 * Select **`POST /lead`** as action.
 
-![](../.gitbook/assets/image%20%28108%29.png)
+![](../.gitbook/assets/image%20%28109%29.png)
 
 * Click on the **`Done`** button.
 
-![](../.gitbook/assets/image%20%28113%29.png)
+![](../.gitbook/assets/image%20%28114%29.png)
 
 * Hover over the **+** icon between start/finish connections.
 * Click on the **Add a Step** link.
