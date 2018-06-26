@@ -1,6 +1,6 @@
 # Create Salesforce Contact
 
-* Login to Salesforce.com with your credentials
+* Login to **Salesforce.com** with your credentials
 * Click on the **`Contacts`** tab.
 * Click on the **`New`** button.
 

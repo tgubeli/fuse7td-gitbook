@@ -1,6 +1,6 @@
 # Check DB Table
 
-* Go to [http://db.ignite1.rhtechofficelatam.com/browser/](http://db.ignite1.rhtechofficelatam.com/browser/) again.
+* Go to **http://db.apps-&lt;GUID&gt;.generic.opentlc.com** again.
 * Login as 
   * **Username:** admin@ignite.com
   * **Password:** password
