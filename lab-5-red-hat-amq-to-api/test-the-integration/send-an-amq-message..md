@@ -1,6 +1,6 @@
 # Send an AMQ message.
 
-* Go to [https://igniteworkshop.ignite1.rhtechofficelatam.com:8443/console/project/amq/overview](https://igniteworkshop.ignite1.rhtechofficelatam.com:8443/console/project/amq/overview)
+* Go to **https://fuseignite-&lt;GUID&gt;.generic.opentlc.com:8443/console/project/rhdg/overview**
 * Login as **admin/admin.**
 * Click on the blue circle.
 

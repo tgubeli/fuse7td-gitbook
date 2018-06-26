@@ -21,7 +21,7 @@
 ![](../.gitbook/assets/image%20%28162%29.png)
 
 * Click on the **`Done`** button.
-* Select the **`OpenCRX-Leads`** connection.
+* Select the **`OpenCRX`** connection.
 * Select the **`POST /invoice`** action**.**
 
 ![](../.gitbook/assets/image%20%2819%29.png)
