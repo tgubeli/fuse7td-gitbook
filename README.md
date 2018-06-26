@@ -4,5 +4,3 @@ This is Red Hat Fuse v7 TestDrive, where you will be able to get hands-on experi
 
 
 
-hola {{ pepe }}
-
