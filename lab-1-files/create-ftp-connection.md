@@ -1,3 +1,14 @@
+# Set Up Web Hosting Account
+
+In the next part of the lab, you utilize a remote file hosting server as the environment for hosting the destination endpoint (which is a flat file) of the Fuse Ignite integration. In this section, you set up the account.
+
+* Set up a user account with a free web-hosting service provider.
+
+** Make sure that you are able to utilize FTP and SFTP services using this account.
+
+> NOTE: The lab examples use an account from Infinity Free. . Note the username and password for your new account, as the Fuse Ignite integration creation process requires this information.
+
+
 # Create FTP connection
 
 
