@@ -45,7 +45,7 @@
 ![](../.gitbook/assets/image%20%281%29.png)
 
 * Click on the **`Enable for Device Flow`**checkbox.
-* Enter `https://fuse-ignite.ignite1.rhtechofficelatam.com/api/v1/credentials/callback` as **Callback URL.**
+* Enter `https://fuse-ignite-userXY.apps.santiago.openshiftworkshop.com/api/v1/credentials/callback` as **Callback URL.**
 
 ![](../.gitbook/assets/image%20%2810%29.png)
 

@@ -8,7 +8,7 @@
 
 * Enter the following values:
 
-| **Connection URL** | jdbc:postgresql://ignitedb.db.svc.cluster.local:5432/JBossBank |
+| **Connection URL** | jdbc:postgresql://ignitedb.db.svc:5432/JBossBank |
 | --- | --- | --- |
 | **Username** | admin |
 | **Password** | password |
@@ -18,7 +18,7 @@
 
 ![](../.gitbook/assets/image%20%28142%29.png)
 
-* Enter **" IginteDB"**  as **Connection Name.**
+* Enter **" IgniteDB"**  as **Connection Name.**
 * Click on the **`Create`** button.
 
 ![](../.gitbook/assets/image%20%2811%29.png)
