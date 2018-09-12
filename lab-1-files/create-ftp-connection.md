@@ -4,9 +4,9 @@ In the next part of the lab, you utilize a remote file hosting server as the env
 
 * Set up a user account with a free web-hosting service provider.
 
-** Make sure that you are able to utilize FTP and SFTP services using this account.
+* Make sure that you are able to utilize FTP and SFTP services using this account.
 
-> NOTE: The lab examples use an account from Infinity Free. . Note the username and password for your new account, as the Fuse Ignite integration creation process requires this information.
+> NOTE: The lab examples use an account from [Infinity Free](https://infinityfree.net). Note the username and password for your new account, as the Fuse Ignite integration creation process requires this information.
 
 
 # Create FTP connection
@@ -22,13 +22,7 @@ In the next part of the lab, you utilize a remote file hosting server as the env
 
 ![](../.gitbook/assets/image%20%28119%29.png)
 
-* Enter the following values:
-
-| **Host** | vsftpd.ftp.svc.cluster.local |
-| --- | --- | --- | --- |
-| **User Name** | admin |
-| **Password** | password |
-| **Port** | 21 |
+* Populate the form with the Host, Username, and Password of your web hosting service account.
 
 * Click on the **`Validate`** button.
 

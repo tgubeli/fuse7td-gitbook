@@ -1,34 +1,15 @@
 # Test the integration
 
-* Go to **http://ftp.apps-&lt;GUID&gt;.generic.opentlc.com**
-* Click on **`Advanced Login`**
-* Enter the following values:
+* Using an FTP client, or a web-based console if available, log in and navigate to the root directory of your web hosting service account.
 
-| Host | vsftpd.ftp.svc.cluster.local |
-| --- | --- | --- | --- | --- |
-| Port | 21 |
-| Username | admin |
-| Password | password |
-| Passive mode | Checked |
+* Navigate to the **./htdocs** subdirectory and create 2 folders: **incoming** and **outgoing** folders.
 
-* Click on the **`Login`** button.
+* Then navigate to the **incoming** folder.
 
-![](../.gitbook/assets/image%20%2817%29.png)
-
-* Click on the **`incoming`** folder.
 * Upload **Labs\Lab1\file1.xml** to the FTP server.
 
-![](../.gitbook/assets/image%20%28172%29.png)
-
-* Click on the **`Submit`** button.
-
-![](../.gitbook/assets/image%20%2864%29.png)
-
-* Click on the **Back** arrow button.
-* Navigate to the **Outgoing** folder.
+* Now navigate to the **outgoing** folder.
 * You should have a file with the current date as filename.
-
-![](../.gitbook/assets/image%20%28145%29.png)
 
 * Go back to **Fuse Ignite**  console.
 * Click on the **`Integrations`** tab.
