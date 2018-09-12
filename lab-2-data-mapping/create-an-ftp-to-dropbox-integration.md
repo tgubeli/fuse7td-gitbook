@@ -26,7 +26,7 @@
 
 ```text
 <customer id="c1">
-  <name>Pablo Szuster</name>
+  <name>John Doe</name>
   <address>Ing. Butty 240</address>
 </customer>
 ```

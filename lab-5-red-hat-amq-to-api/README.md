@@ -2,8 +2,7 @@
 
 
 
-* Open a web browser, and go to **https://fuse-ignite.apps-&lt;GUID&gt;.generic.opentlc.com**
-* Login as **admin/admin**
+* Open a web browser, and go to **https://fuse-ignite-userXY.apps.santiago.openshiftworkshop.com**
+* Login as **userXY/openshift**
 
-![login as admin/admin](../.gitbook/assets/image%20%2867%29.png)
-
+![login as userXY/openshift](../.gitbook/assets/image%20%2867%29.png)
